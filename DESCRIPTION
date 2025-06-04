@@ -1,0 +1,16 @@
+Package: regflow
+Version: 1.0.0
+Date: 10-Mar-2025
+Title: Regulatory Flow Analysis
+Description: Regulatory Flow Analysis for molecular interactions and pathways. 
+Author: Carlos Roca <carlosproca@gmail.com>
+Maintainer: Jonathan Mangion <jonathan.mangion@astrazeneca.com>
+Depends: R (>= 3.5.0)
+Imports: biomaRt, ggplot2, ggrepel, igraph, Matrix, moments, OmnipathR, RSpectra
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list( markdown = TRUE )
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
