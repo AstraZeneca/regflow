@@ -18,7 +18,7 @@ use the function `install_github` in the
 ```R
 library( devtools )
 
-install_github( "osysoev/regflow" )    # to be updated
+install_github( "AstraZeneca/regflow" )   
 ```
 
 

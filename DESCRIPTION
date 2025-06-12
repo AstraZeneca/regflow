@@ -7,7 +7,7 @@ Author: Carlos Roca <carlosproca@gmail.com>
 Maintainer: Jonathan Mangion <jonathan.mangion@astrazeneca.com>
 Depends: R (>= 3.5.0)
 Imports: biomaRt, ggplot2, ggrepel, igraph, Matrix, moments, OmnipathR, RSpectra
-License: GPL-3
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list( markdown = TRUE )
 RoxygenNote: 7.3.2
